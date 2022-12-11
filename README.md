@@ -34,6 +34,10 @@ Short summary about me :
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=6296C)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909?style=for-the-badge&logo=TensorFlow&logoColor=0064BB)
 
-[CV](https://drive.google.com/file/d/1gysoP7y_0rphcaX-Xn2IZsHvEmeiCkB7/view)
+[Here you can see my CV](https://drive.google.com/file/d/1gysoP7y_0rphcaX-Xn2IZsHvEmeiCkB7/view)
 
-Contact me
+Contact me:
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/alesyanavarko/)
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mysql&logoColor=F8C52C)](alesya_navarko@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=097CDB)](https://t.me/Lesya_Nav)
