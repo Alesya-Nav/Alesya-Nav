@@ -1,7 +1,6 @@
 
 ![Header](https://github.com/Alesya-Nav/Alesya-Nav/blob/main/assets/output-onlinegiftools%20(1).gif)
 
-<br/>
 
 ### I'm a purposeful and highly motivated QA Engineer!
 
@@ -25,10 +24,8 @@ Short summary about me :
 
 • Client-oriented with problem-solving skills.
 
-<br/>
 
 ### Tools
-<br/>
 
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=097CDB)
@@ -39,19 +36,15 @@ Short summary about me :
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=6296C)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-090909?style=for-the-badge&logo=TensorFlow&logoColor=0064BB)
 <br/>
-<br/>
 ### [Here you can see my CV](https://drive.google.com/file/d/1snCRGGYEIdgXy1ByUNvWMPJQsgUJTotH/view?usp=sharing)
-<br/>
-
 
 
 ### Portfolio:
-<br/>
 
 * (https://docs.google.com/spreadsheets/d/1iZ-pHduzTB25V7dLEIKFtIlE-tSNZuSWK0OklRXpnOA/edit?usp=sharing)
 
 * (https://docs.google.com/spreadsheets/d/1Hybj5O-1JE3VZiBWkV0SZV1bzlEbIr_0dW5dlGK9DGo/edit?usp=sharing)
-<br/>
+
 
 Contact me:
 <br/>
