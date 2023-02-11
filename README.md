@@ -45,7 +45,7 @@ Short summary about me :
 
 * (https://docs.google.com/spreadsheets/d/1Hybj5O-1JE3VZiBWkV0SZV1bzlEbIr_0dW5dlGK9DGo/edit?usp=sharing)
 
-* (https://docs.google.com/spreadsheets/d/1Hybj5O-1JE3VZiBWkV0SZV1bzlEbIr_0dW5dlGK9DGo/edit?usp=sharing)
+* (https://docs.google.com/document/d/18VDQ7DT0s7QAb5klf8VhfoL6iCEqnHgUKrlACkIYxuQ/edit?usp=sharing)
 
 
 Contact me:
