@@ -53,6 +53,10 @@ SQL:
 
 * (https://docs.google.com/document/d/18VDQ7DT0s7QAb5klf8VhfoL6iCEqnHgUKrlACkIYxuQ/edit?usp=sharing)
 
+Postman:
+
+* (https://www.postman.com/solar-astronaut-371245/workspace/requests-swagger/collection/19712760-181e5aa4-cecf-45dc-a434-3f54e81c0191?action=share&creator=19712760)
+
 
 Contact me:
 <br/>
